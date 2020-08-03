@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yangha Jung
-img: "assets/img/portfolio/Yangha.jpg"
+img: "assets/img/portfolio/Yangha.png"
 date: 27 September 2015
 ---
 

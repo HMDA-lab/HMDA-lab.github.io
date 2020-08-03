@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yongchan Kwon
-img: "assets/img/portfolio/Yongchan.jpeg"
+img: "assets/img/portfolio/Yongchan.png"
 date: 2017-05-26
 ---
 

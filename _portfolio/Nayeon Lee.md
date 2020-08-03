@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nayeon Lee
-img: "assets/img/portfolio/Nayeon.jpeg"
+img: "assets/img/portfolio/Nayeon.png"
 date: 2017-05-26
 ---
 

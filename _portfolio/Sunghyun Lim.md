@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sunghyun Lim
-img: "assets/img/portfolio/Sunghyun.jpeg"
+img: "assets/img/portfolio/Sunghyun.png"
 date: 20-10-2017
 tags: [Lorem, Portfolio]
 ---
