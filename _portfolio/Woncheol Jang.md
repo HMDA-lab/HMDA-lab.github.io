@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Woncheol Jang
-img: "assets/img/portfolio/woncheol.png"
+img: "assets/img/portfolio/Woncheol.png"
 date: September 2014
 ---
 
