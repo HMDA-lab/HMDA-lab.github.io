@@ -1,4 +1,4 @@
-I"<!-- Portfolio Grid Section -->
+I"ý<!-- Portfolio Grid Section -->
 
 <div class="portfolio-grid">
     
@@ -31,7 +31,7 @@
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
             </div>
-            <img alt="" class="" src="/assets/img/portfolio/Yangha.jpg" />
+            <img alt="" class="" src="/assets/img/portfolio/Yangha.png" />
         </a>
     </div>
     
@@ -42,7 +42,7 @@
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
             </div>
-            <img alt="" class="" src="/assets/img/portfolio/Nayeon.jpeg" />
+            <img alt="" class="" src="/assets/img/portfolio/Nayeon.png" />
         </a>
     </div>
     
@@ -53,18 +53,18 @@
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
             </div>
-            <img alt="" class="" src="/assets/img/portfolio/Yongchan.jpeg" />
+            <img alt="" class="" src="/assets/img/portfolio/Yongchan.png" />
         </a>
     </div>
     
     <div class="portfolio-cell">
-        <a class="portfolio-link" data-keyboard="true" href="/portfolio/seunghyun-eum">
-            <div class="caption" title="Seunghyun Eum">
+        <a class="portfolio-link" data-keyboard="true" href="/portfolio/seunghyun-eom">
+            <div class="caption" title="Seunghyun Eom">
                 <div class="caption-content">
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
             </div>
-            <img alt="" class="" src="/assets/img/portfolio/Seunghyun.jpeg" />
+            <img alt="" class="" src="/assets/img/portfolio/Seunghyun.png" />
         </a>
     </div>
     
@@ -75,7 +75,7 @@
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
             </div>
-            <img alt="" class="" src="/assets/img/portfolio/Sunghyun.jpeg" />
+            <img alt="" class="" src="/assets/img/portfolio/Sunghyun.png" />
         </a>
     </div>
     

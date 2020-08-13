@@ -1,4 +1,4 @@
-I"þ<!-- Portfolio Grid Section -->
+I"ý<!-- Portfolio Grid Section -->
 
 <div class="portfolio-grid">
     
@@ -58,13 +58,13 @@
     </div>
     
     <div class="portfolio-cell">
-        <a class="portfolio-link" data-keyboard="true" href="/portfolio/seunghyun-eum">
+        <a class="portfolio-link" data-keyboard="true" href="/portfolio/seunghyun-eom">
             <div class="caption" title="Seunghyun Eum">
                 <div class="caption-content">
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
             </div>
-            <img alt="" class="" src="/assets/img/portfolio/Seunghyun.jpeg" />
+            <img alt="" class="" src="/assets/img/portfolio/Seunghyun.png" />
         </a>
     </div>
     

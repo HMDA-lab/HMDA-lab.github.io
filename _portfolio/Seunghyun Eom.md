@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seunghyun Eum
+title: Seunghyun Eom
 img: "assets/img/portfolio/Seunghyun.png"
 date: 20-10-2017
 tags: [Lorem, Portfolio]
