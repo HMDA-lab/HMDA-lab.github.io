@@ -2,9 +2,13 @@
 layout: post
 title: Woncheol Jang
 img: "assets/img/portfolio/Woncheol.png"
-date: September 2014
 ---
+Woncheol Jang is a professor in the Department of Statistics and has a joint appointment at Brain and Cognitive Science at Seoul National University. He is currently serving on the editorial boards of Journal of Korean Statistical Society, JASA/TAS Review and Chemometrics and Intelligent Laboratory Systems. He received his BS in Computer Science and Statistics and MS in Statistics both from Seoul National University in 1991 and 1993, respectively. After a brief stint at Texas A&M University, he went to Carnegie Mellon University to become a Bayesian. Ironically, he didn't do any Bayesian stuff for his thesis but landed back to the Bayesian world, ISDS, at Duke. After spending eight years at Duke and University of Georgia, he joined the Department of Statistics at Seoul National University in 2012. To him, statistics is a tool for solving scientific problems, and he feels lucky to choose statistics as his professional area, so he still can pursue all his childhood dreams, astronomer, geneticist, and baseball analyst. On the theoretical side, he is interested in the development of a framework for infinite-dimensional data common in many scientific areas. On the application side, his collaborations encompass such topics as astronomy, computer science, epidemiology, neuroscience, and politics.<br>
 
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
+**Office** \\
+Room 323, Building #25 \\
+Department of Statistics \\
+Seoul National University \\
+1 Gwanak-ro, Gwanak-gu \\
+Seoul, Korea 08826 \\
+Phone : +82-2-880-8164

@@ -2,8 +2,6 @@
 layout: post
 title: Nayeon Lee
 img: "assets/img/portfolio/Nayeon.png"
-date: 2017-05-26
 ---
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Nayeon Lee is a graduate student in the HMDA Lab. Nayeon received BA in Statistics from Ewha Womans Universitywith high honors in 2019. She is very interested in treating human diseases and wants to learn how to use statistics to help treat these diseases. She is also interested in sports such as basketball and volleyball, so she wants to study whether statistics can be applied to sports. Therefore, Nayeon hopes to become a researcher who enables statistics to contribute to many areas.
 
