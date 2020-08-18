@@ -4,61 +4,25 @@
   
   {
   
-  "title"    : "Junsik Kim",
-  "category" : "",
-  "tags"     : " ",
-  "url"      : "/portfolio/junsik-kim",
-  "date"     : "August 18, 2020",
-  "excerpt"  : "Junsik is a graduate student. His research interests include statistical network models and multiple testing methods such as enrichment analysis and local FDR methods.\n",
-  "content"  : "Junsik is a graduate student. His research interests include statistical network models and multiple testing methods such as enrichment analysis and local FDR methods.\n"
-  
-} ,
-  
-  {
-  
-  "title"    : "Nayeon Lee",
-  "category" : "",
-  "tags"     : " ",
-  "url"      : "/portfolio/nayeon-lee",
-  "date"     : "August 18, 2020",
-  "excerpt"  : "Nayeon Lee is a graduate student in the HMDA Lab. Nayeon received BA in Statistics from Ewha Womans Universitywith high honors in 2019. She is very interested in treating human diseases and wants to learn how to use statistics to help treat these ...",
-  "content"  : "Nayeon Lee is a graduate student in the HMDA Lab. Nayeon received BA in Statistics from Ewha Womans Universitywith high honors in 2019. She is very interested in treating human diseases and wants to learn how to use statistics to help treat these diseases. She is also interested in sports such as basketball and volleyball, so she wants to study whether statistics can be applied to sports. Therefore, Nayeon hopes to become a researcher who enables statistics to contribute to many areas.\n\n"
-  
-} ,
-  
-  {
-  
-  "title"    : "Seunghyun Eom",
-  "category" : "",
-  "tags"     : " ",
-  "url"      : "/portfolio/seunghyun-eom",
-  "date"     : "August 18, 2020",
-  "excerpt"  : "SeungHyun is a first year graduate student in the HMDA Lab (March 2020 - Present). He graduated from Korea Military Academy in 2014 with a degree in Operations Research (O.R.). He is broadly interested in  massive data analysis,  classification, a...",
-  "content"  : "SeungHyun is a first year graduate student in the HMDA Lab (March 2020 - Present). He graduated from Korea Military Academy in 2014 with a degree in Operations Research (O.R.). He is broadly interested in  massive data analysis,  classification, and so on. With statistical approaches, he seeks to understand how to analyze massive data in real life.\n\n"
-  
-} ,
-  
-  {
-  
-  "title"    : "Sunghyun Lim",
-  "category" : "",
-  "tags"     : " ",
-  "url"      : "/portfolio/sunghyun-lim",
-  "date"     : "August 18, 2020",
-  "excerpt"  : "Sunghyun Lim is a graduate student in the HMDA Lab from March, 2020. He got a Bachelor’s degree in Statistics from University of Seoul. He is broadly interested in large scale data analysis/inference , statistical learning and so on. He hopes to u...",
-  "content"  : "Sunghyun Lim is a graduate student in the HMDA Lab from March, 2020. He got a Bachelor’s degree in Statistics from University of Seoul. He is broadly interested in large scale data analysis/inference , statistical learning and so on. He hopes to understand methods of dealing with large scale data by statistical approaches.\n\n"
-  
-} ,
-  
-  {
-  
   "title"    : "Woncheol Jang",
   "category" : "",
   "tags"     : " ",
-  "url"      : "/portfolio/woncheol-jang",
+  "url"      : "/portfolio/1woncheol-jang",
   "date"     : "August 18, 2020",
   "excerpt"  : "Woncheol Jang is a professor in the Department of Statistics and has a joint appointment at Brain and Cognitive Science at Seoul National University. He is currently serving on the editorial boards of Journal of Korean Statistical Society, JASA/TA...",
-  "content"  : "Woncheol Jang is a professor in the Department of Statistics and has a joint appointment at Brain and Cognitive Science at Seoul National University. He is currently serving on the editorial boards of Journal of Korean Statistical Society, JASA/TAS Review and Chemometrics and Intelligent Laboratory Systems. He received his BS in Computer Science and Statistics and MS in Statistics both from Seoul National University in 1991 and 1993, respectively. After a brief stint at Texas A&amp;amp;M University, he went to Carnegie Mellon University to become a Bayesian. Ironically, he didn’t do any Bayesian stuff for his thesis but landed back to the Bayesian world, ISDS, at Duke. After spending eight years at Duke and University of Georgia, he joined the Department of Statistics at Seoul National University in 2012. To him, statistics is a tool for solving scientific problems, and he feels lucky to choose statistics as his professional area, so he still can pursue all his childhood dreams, astronomer, geneticist, and baseball analyst. On the theoretical side, he is interested in the development of a framework for infinite-dimensional data common in many scientific areas. On the application side, his collaborations encompass such topics as astronomy, computer science, epidemiology, neuroscience, and politics.\n\nOffice \nRoom 323, Building #25 \nDepartment of Statistics \nSeoul National University \n1 Gwanak-ro, Gwanak-gu \nSeoul, Korea 08826 \nPhone : +82-2-880-8164\n"
+  "content"  : "Woncheol Jang is a professor in the Department of Statistics and has a joint appointment at Brain and Cognitive Science at Seoul National University. He is currently serving on the editorial boards of Journal of Korean Statistical Society, JASA/TAS Review and Chemometrics and Intelligent Laboratory Systems. He received his BS in Computer Science and Statistics and MS in Statistics both from Seoul National University in 1991 and 1993, respectively. After a brief stint at Texas A&amp;amp;M University, he went to Carnegie Mellon University to become a Bayesian. Ironically, he didn’t do any Bayesian stuff for his thesis but landed back to the Bayesian world, ISDS, at Duke. After spending eight years at Duke and University of Georgia, he joined the Department of Statistics at Seoul National University in 2012. To him, statistics is a tool for solving scientific problems, and he feels lucky to choose statistics as his professional area, so he still can pursue all his childhood dreams, astronomer, geneticist, and baseball analyst. On the theoretical side, he is interested in the development of a framework for infinite-dimensional data common in many scientific areas. On the application side, his collaborations encompass such topics as astronomy, computer science, epidemiology, neuroscience, and politics.\n\nEmail\n wcjang@snu.ac.kr\n\nOffice \nRoom 323, Building #25 \nDepartment of Statistics \nSeoul National University \n1 Gwanak-ro, Gwanak-gu \nSeoul, Korea 08826 \nPhone : +82-2-880-8164\n\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "Junsik Kim",
+  "category" : "",
+  "tags"     : " ",
+  "url"      : "/portfolio/2junsik-kim",
+  "date"     : "August 18, 2020",
+  "excerpt"  : "Junsik is a graduate student. His research interests include statistical network models and multiple testing methods such as enrichment analysis and local FDR methods.\n\nEmail\nthejs@snu.ac.kr\n",
+  "content"  : "Junsik is a graduate student. His research interests include statistical network models and multiple testing methods such as enrichment analysis and local FDR methods.\n\nEmail\nthejs@snu.ac.kr\n"
   
 } ,
   
@@ -67,10 +31,10 @@
   "title"    : "Yangha Chung",
   "category" : "",
   "tags"     : " ",
-  "url"      : "/portfolio/yangha-chung",
+  "url"      : "/portfolio/3yangha-chung",
   "date"     : "August 18, 2020",
   "excerpt"  : "Yangha Chung is Ph.D Candidate in HMDA lab. He earned Bachelor’s degree in Mathematics (minor in Financial Mathematics) from Seoul National University. His undergraduate dissertation research investigated the interest rate, bond price and their mo...",
-  "content"  : "Yangha Chung is Ph.D Candidate in HMDA lab. He earned Bachelor’s degree in Mathematics (minor in Financial Mathematics) from Seoul National University. His undergraduate dissertation research investigated the interest rate, bond price and their models. He is interested in multiple testing. From 2019, he conducted a research about whether I-131 therapy for thyroid cancer patient has side effect or not. It is a co-research with Seoul National University Bundang Hospital. He researched about using propensity score for non-randomized clinical trial.\n\n"
+  "content"  : "Yangha Chung is Ph.D Candidate in HMDA lab. He earned Bachelor’s degree in Mathematics (minor in Financial Mathematics) from Seoul National University. His undergraduate dissertation research investigated the interest rate, bond price and their models. He is interested in multiple testing. From 2019, he conducted a research about whether I-131 therapy for thyroid cancer patient has side effect or not. It is a co-research with Seoul National University Bundang Hospital. He researched about using propensity score for non-randomized clinical trial.\n\nEmail\nyangha08@snu.ac.kr\n"
   
 } ,
   
@@ -79,10 +43,46 @@
   "title"    : "Yongchan Kwon",
   "category" : "",
   "tags"     : " ",
-  "url"      : "/portfolio/yongchan-kwon",
+  "url"      : "/portfolio/4yongchan-kwon",
   "date"     : "August 18, 2020",
   "excerpt"  : "YongChan is a graduate student in the SNU(Seoul National University) STAT(Statsitics)-HMDA Lab starting from March 2019. He received a bachelor’s degree in mechanical engineering from the KMA(Korea Military Academy) in 2012. His fields of interest...",
-  "content"  : "YongChan is a graduate student in the SNU(Seoul National University) STAT(Statsitics)-HMDA Lab starting from March 2019. He received a bachelor’s degree in mechanical engineering from the KMA(Korea Military Academy) in 2012. His fields of interest are Data mining, Deep learning (speech synthesis), Spatial data analysis, and Artificial intelligence. After graduation, he will work as a  Nationa Defense Data analysis expert.\n\n"
+  "content"  : "YongChan is a graduate student in the SNU(Seoul National University) STAT(Statsitics)-HMDA Lab starting from March 2019. He received a bachelor’s degree in mechanical engineering from the KMA(Korea Military Academy) in 2012. His fields of interest are Data mining, Deep learning (speech synthesis), Spatial data analysis, and Artificial intelligence. After graduation, he will work as a  Nationa Defense Data analysis expert.\n\nEmail\nchgw2002@snu.ac.kr\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "Nayeon Lee",
+  "category" : "",
+  "tags"     : " ",
+  "url"      : "/portfolio/5nayeon-lee",
+  "date"     : "August 18, 2020",
+  "excerpt"  : "Nayeon Lee is a graduate student in the HMDA Lab. Nayeon received BA in Statistics from Ewha Womans Universitywith high honors in 2019. She is very interested in treating human diseases and wants to learn how to use statistics to help treat these ...",
+  "content"  : "Nayeon Lee is a graduate student in the HMDA Lab. Nayeon received BA in Statistics from Ewha Womans Universitywith high honors in 2019. She is very interested in treating human diseases and wants to learn how to use statistics to help treat these diseases. She is also interested in sports such as basketball and volleyball, so she wants to study whether statistics can be applied to sports. Therefore, Nayeon hopes to become a researcher who enables statistics to contribute to many areas.\n\nEmail\n2019-26938@snu.ac.kr\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "Seunghyun Eom",
+  "category" : "",
+  "tags"     : " ",
+  "url"      : "/portfolio/6seunghyun-eom",
+  "date"     : "August 18, 2020",
+  "excerpt"  : "SeungHyun is a first year graduate student in the HMDA Lab (March 2020 - Present). He graduated from Korea Military Academy in 2014 with a degree in Operations Research (O.R.). He is broadly interested in  massive data analysis,  classification, a...",
+  "content"  : "SeungHyun is a first year graduate student in the HMDA Lab (March 2020 - Present). He graduated from Korea Military Academy in 2014 with a degree in Operations Research (O.R.). He is broadly interested in  massive data analysis,  classification, and so on. With statistical approaches, he seeks to understand how to analyze massive data in real life.\n\nEmail\ntmdgus545@snu.ac.kr\n"
+  
+} ,
+  
+  {
+  
+  "title"    : "Sunghyun Lim",
+  "category" : "",
+  "tags"     : " ",
+  "url"      : "/portfolio/7sunghyun-lim",
+  "date"     : "August 18, 2020",
+  "excerpt"  : "Sunghyun Lim is a graduate student in the HMDA Lab from March, 2020. He got a Bachelor’s degree in Statistics from University of Seoul. He is broadly interested in large scale data analysis/inference , statistical learning and so on. He hopes to u...",
+  "content"  : "Sunghyun Lim is a graduate student in the HMDA Lab from March, 2020. He got a Bachelor’s degree in Statistics from University of Seoul. He is broadly interested in large scale data analysis/inference , statistical learning and so on. He hopes to understand methods of dealing with large scale data by statistical approaches.\n\nEmail\ntjdgusl99@snu.ac.kr\n"
   
 } 
   
